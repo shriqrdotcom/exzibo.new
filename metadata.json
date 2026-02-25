@@ -1,0 +1,7 @@
+{
+  "name": "Saffron & Spice - Indian Fine Dining",
+  "description": "A modern, elegant Indian restaurant application featuring a full menu, reservation system, and admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
